@@ -17,3 +17,5 @@ point Q
 If the input is form 1, the script will calculate a * P. If the input is form 2, the script will calculate P + Q.
 
 A version of the above code can identify and handle big O (the additive identity). A function for subtracting points (input will be of form 2, the script will calculate P - Q)
+
+Source: https://en.wikipedia.org/wiki/Elliptic_curve
