@@ -12,5 +12,5 @@ Honey Encryption: Security Beyond the Brute-Force Bound
 By Ari Juels and Thomas Ristenpart 
 https://link.springer.com/content/pdf/10.1007/978-3-642-55220-5_17.pdf
 
-"The Password That Never Was" (CRCS Lunch Seminar) 
+"The Password That Never Was" (Harvard's CRCS Lunch Seminar) 
 https://www.youtube.com/watch?v=DV0k0rQpEX4
