@@ -1,1 +1,3 @@
 The script will calculate a Diffie Hellman shared key, and with that key, encrypt or decrypt a given message. The input for this script will be 5 lines, and will take the form: p, g, b, A, and ciphertext/plaintext. This script assumes that you are Bob, and that the b was chosen by you. A is Alice's public key. The ciphertext/plaintext will be in binary, and the script will xor the given message with the calculated shared key in order to produce the decryption/encryption respectively. If the resulting binary string is plain english, the message is printed, otherwise it will return an indication that you have produced the ciphertext, and then output the binary string of the ciphertext.
+
+Source: https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
